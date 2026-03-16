@@ -28,3 +28,6 @@ IX хоногт өгөгдөнө.
 Даалгаврыг 10 долоо хоногт шалгана. 
 
 Эхлэх кодыг https://github.com/AnkhbayarN/F.CSM306-Lab03-Starter авна уу. 
+
+**Нэмэлт материал**
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/
